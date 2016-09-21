@@ -1,0 +1,6 @@
+C:\Users\PC\hometask_1\hometask_1\Manipulation\bin\Debug\Manipulation.exe.config
+C:\Users\PC\hometask_1\hometask_1\Manipulation\bin\Debug\Manipulation.exe
+C:\Users\PC\hometask_1\hometask_1\Manipulation\bin\Debug\Manipulation.pdb
+C:\Users\PC\hometask_1\hometask_1\Manipulation\obj\Debug\Manipulation.csprojResolveAssemblyReference.cache
+C:\Users\PC\hometask_1\hometask_1\Manipulation\obj\Debug\Manipulation.exe
+C:\Users\PC\hometask_1\hometask_1\Manipulation\obj\Debug\Manipulation.pdb

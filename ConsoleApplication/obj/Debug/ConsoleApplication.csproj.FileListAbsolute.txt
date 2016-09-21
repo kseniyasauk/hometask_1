@@ -6,3 +6,6 @@ c:\users\kseniya_sauk\documents\visual studio 2015\Projects\HomeTask1\ConsoleApp
 c:\users\kseniya_sauk\documents\visual studio 2015\Projects\HomeTask1\ConsoleApplication\obj\Debug\ConsoleApplication.csproj.GenerateResource.Cache
 c:\users\kseniya_sauk\documents\visual studio 2015\Projects\HomeTask1\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 c:\users\kseniya_sauk\documents\visual studio 2015\Projects\HomeTask1\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\PC\hometask_1\hometask_1\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\PC\hometask_1\hometask_1\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\PC\hometask_1\hometask_1\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
